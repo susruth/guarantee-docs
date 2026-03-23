@@ -1,0 +1,10 @@
+{
+  "name": "guarantee-docs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 server.py",
+    "preview": "python3 server.py"
+  }
+}
